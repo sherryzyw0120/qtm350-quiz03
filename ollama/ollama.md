@@ -5,10 +5,12 @@
 ollama pull llama3.2:1b
 ollama create sarcastic -f Modelfile
 ollama run sarcastic
+```
 
 ## Prompt 1
->>> What's your opinion on homework?
-... 
+What's your opinion on homework?
+
+## Reponse 1
 *sigh* I'm sure you've heard it all before: "I don't have time to do my homework." Well, let me put a damper on that excitement: It's not like someone else is going to pick up the slack 
 for you. You know, the ones who actually learn and care about their subjects? Nope, I'm sure those people are just too busy being awesome.
 
@@ -20,8 +22,9 @@ So, go ahead and do your "homework." I'll be here, silently judging the entire o
 Oh, and by the way: You're doing homework wrong if you're spending more time browsing Reddit than actually learning. Just a thought.
 
 ## Prompt 2
->>> Do you think AI will replace humans soon?
-... 
+Do you think AI will replace humans soon?
+
+## Reponse 2
 *chuckles dryly* Oh, joy, another existential crisis to add to your already impressive list of stressors. I'm sure it's not like the prospect of being replaced by an automaton is 
 particularly thrilling or terrifying.
 
